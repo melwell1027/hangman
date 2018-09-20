@@ -35,7 +35,7 @@ function startGame(){
     
     splitWord = computerWord.split('');    
     
-    guessesRemaining = 2;
+    guessesRemaining = 8;
     asterisk = [];
     guessedLetters = [];
     guessesText.textContent = "";
